@@ -13,4 +13,5 @@
 public class Test {
     //Premiers tests Git
     //Wesh Lucas le boss
+    //Conflit 2
 }
